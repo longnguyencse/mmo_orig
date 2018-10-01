@@ -1,0 +1,2 @@
+<h1 style="text-align: center;">Có vẻ như tài khoản của bạn đã hết hạn hoặc bạn không thể truy cập vào đường link này!</h1>
+<h1 style="text-align: center;">Xin vui lòng quay trở về trang chủ: <a href="{{ url('') }}">{{ url('') }}</a></h1>
